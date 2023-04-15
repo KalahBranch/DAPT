@@ -1,0 +1,21 @@
+Rank,Film,Year,Average Rating,Total Votes,Vote by Gender,Average Vote by Gender,Gener
+1,The Shawshank Redemption,1994,9.3,"2,724,556","1,484,965",9.3,Male
+2,The Godfather,1972,9.2,"1,893,892","1,082,014",9.2,Male
+3,The Dark Knight,2008,9,"2,697,394","1,500,449",9,Male
+4,The Godfather Part II,1974,9,"1,291,700","765,995",9,Male
+5,12 Angry Men,1957,9,"805,663","458,061",9,Male
+6,Schindler's List,1993,9,"1,375,928","764,290",9,Male
+7,The Lord of the Rings: The Return of the King ,2003,9,"1,874,420","1,048,228",9,Male
+8,Pulp Fiction,1994,8.9,"2,092,873","1,164,789",8.9,Male
+10,"The Good, the Bad and the Ugly",1966,8.8,"772,439","499,239",8.9,Male
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,"1,903,539","1,045,366",8.8,Male
+1,The Shawshank Redemption,1994,9.3,"2,724,556","297,154",9.2,Female
+2,The Godfather,1972,9.2,"1,893,892","168,319",8.9,Female
+3,The Dark Knight,2008,9,"2,697,394","269,184",8.7,Female
+4,The Godfather Part II,1974,9,"1,291,700","106,642",8.7,Female
+5,12 Angry Men,1957,9,"805,663","77,613",8.9,Female
+6,Schindler's List,1993,9,"1,375,928","172,281",9,Female
+7,The Lord of the Rings: The Return of the King ,2003,9,"1,874,420","222,389",8.9,Female
+8,Pulp Fiction,1994,8.9,"2,092,873","224,438",8.5,Female
+10,"The Good, the Bad and the Ugly",1966,8.8,"772,439","49,949",8.3,Female
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,"1,903,539","234,134",8.8,Female
